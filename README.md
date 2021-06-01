@@ -11,7 +11,7 @@ Titles are derived from the documents or created by the cataloger.
 ### Name
 Person who created the document. This can include individuals or corporate entities. Common creators include: Roberts, Walter Orr; Carlson, Robert F.; Shapley, Alan Harlow
 ### Type of Resource
-still image, text, and mixed material
+still image; text; and mixed material
 ### Place Term
 Location of where the item was created or came from. 
 ### Publisher
@@ -21,7 +21,7 @@ Date created or issued. Dates range from the 1940s-1960s.
 ### Language
 Items in English.
 ### Form
-Common form terms include: Correspondence, Mixed media, Memmorandums, Annual Reports, Records (documents)
+Common form terms include: Correspondence; Mixed media; Memmorandums; Annual Reports; Records (documents)
 ### Extent
 Number of pages of each document.
 ### Abstract
