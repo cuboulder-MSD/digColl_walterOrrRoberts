@@ -37,4 +37,5 @@ Special Collections, Archives & Preservation, University of Colorado Boulder
 ### Access Condition
 This Item is protected by copyright and/or related rights.
 ## Resources
+For more information about this collection visit the CU Boulder ArchivesSpace [Walter Orr Roberts Papers](https://archives.colorado.edu/repositories/2/resources/1468) webpage.
 ## Notes
